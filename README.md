@@ -92,6 +92,7 @@ This project is licensed under the MIT License.
 - OpenZeppelin for secure smart contract standards
 - Ethereum community for continuous support and development 
 
-![image](https://github.com/user-attachments/assets/bc5b731d-5273-49bc-9792-550c634dd6f2)
-![Screenshot 2025-05-04 132906](https://github.com/user-attachments/assets/265434d3-ebdc-4dd8-873c-8362729f1cde)
+![Screenshot 2025-05-05 010703](https://github.com/user-attachments/assets/02ea387e-b668-4243-b291-417e6009636b)
+![image](https://github.com/user-attachments/assets/9992626b-c52a-4cd2-800c-8874864ac55e)
+
 
