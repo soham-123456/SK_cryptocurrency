@@ -1,0 +1,53 @@
+/* Custom styles for SK Token ICO */
+
+body {
+  background-color: #f8f9fa;
+  color: #343a40;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.container {
+  background-color: #ffffff;
+  border-radius: 10px;
+  box-shadow: 0 0 20px rgba(0,0,0,0.1);
+  padding: 30px;
+  margin-top: 30px;
+}
+
+h1 {
+  color: #6200ee;
+  font-weight: bold;
+}
+
+hr {
+  border-color: #6200ee;
+  opacity: 0.3;
+}
+
+.btn-primary {
+  background-color: #6200ee;
+  border-color: #6200ee;
+}
+
+.btn-primary:hover, .btn-primary:focus {
+  background-color: #5000ca;
+  border-color: #5000ca;
+}
+
+.progress-bar {
+  background-color: #6200ee;
+}
+
+#accountAddress {
+  color: #6c757d;
+  font-size: 0.9rem;
+}
+
+.token-price, .dapp-balance, .token-name {
+  color: #6200ee;
+  font-weight: bold;
+}
+
+.tokens-sold, .tokens-available {
+  font-weight: bold;
+} 
